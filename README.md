@@ -9,7 +9,7 @@
 - 📫 if you have any question, please feel free to contact with my by my Email: ChenXinV@outlook.com
 <br/>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Chen-X666&show_icons=true&theme=tokyonight" />
+<img align="left" src="https://github-readme-status.vercel.app/api?username=Chen-X666&show_icons=true&theme=tokyonight" />
 
 ### 技术栈
 
