@@ -5,7 +5,6 @@
 - 📫 if you have any question or coperation, please feel free to contact with my by my Email: ChenXinV@outlook.com. 🔧
 <br/>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
-<img align="left" src="https://github-readme-status.vercel.app/api?username=Chen-X666&show_icons=true&theme=tokyonight" />
 
 ### 技术栈
 
