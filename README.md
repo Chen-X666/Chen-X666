@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Chen, a undergraduate student studying in Zhuhai.👋 
-- 📊 Currently, I’m specialize in Information Science、Knowledge Graph, Natural language processing, data mining.📊
-- 🌱 In the short-term furture. i tend to learn the fintech, intergating the technology with finance. 🌱  
-- ⭐ About my interests. I cannot live without Music and designing, lol. ⭐
-- 📫 if you have any question or coperation, please feel free to contact with my by my Email: ChenXinV@outlook.com.📫
+- 👋 Hi, I’m @Chen, an undergraduate student studying in Zhuhai. After this summer, perhaps i will study in Southampton, England.👋 
+- 📊 Currently, I’m focusing on the field of Information Science、Knowledge Graph, Natural Language Processing and Data Mining.📊
+- 🌱 In the short-term furture. i tend to learn the business anylysis and finance. 🌱  
+- ⭐ About my interests. I cannot live without music and designing, lol. ⭐
+- 📫 If you have any question or coperation, please feel free to contact with me by my Email: ChenXinV@outlook.com.📫
 <br/>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
