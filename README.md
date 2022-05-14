@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Chen, a undergraduate student studying in Zhuhai.👋
+- 👋 Hi, I’m @Chen, a undergraduate student studying in Zhuhai.👋 
 - 📊 Currently, I’m specialize in Information Science、Knowledge Graph, Natural language processing, data mining.📊
 - 🌱 In the short-term furture. i tend to learn the fintech, intergating the technology with finance. 🌱  
 - ⭐ About my interests. I cannot live without Music and designing, lol. ⭐
