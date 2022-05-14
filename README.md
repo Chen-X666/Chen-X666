@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Chen, an undergraduate student studying in Zhuhai. After this summer, perhaps i will study in Southampton, England.👋 
+- 👋 Hi, I’m @Chen, an undergraduate student studying in Zhuhai. After this summer vacation, perhaps i will study in Southampton, England.👋 
 - 📊 Currently, I’m focusing on the field of Information Science、Knowledge Graph, Natural Language Processing and Data Mining.📊
 - 🌱 In the short-term furture. i tend to learn the business anylysis and finance. 🌱  
 - ⭐ About my interests. I cannot live without music and designing, lol. ⭐
