@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Chen, an undergraduate student studying in Zhuhai. After this summer vacation, perhaps i will study in Southampton, England.👋 
-- 📊 Currently, I’m focusing on the field of Information Science, Knowledge Graph, Natural Language Processing and Data Mining.📊
-- 🌱 In the short-term furture. I tend to learn the business anylysis and finance. 🌱  
+- 👋 Hi, I’m @Chen, a postgraduate student study in University of Southampton(UoS).👋 
+- 📊 Currently, I’m focusing on Business Analytics, Natural language processing, Data Science and Knowledge Graph.📊 
 - ⭐ About my interests. I cannot live without music and designing, lol. ⭐
-- 📫 If you have any question or coperation, please feel free to contact with me by my Email: ChenXinV@outlook.com.📫
+- 📫 If you have any questions or coperations, please feel free to contact with me by my Email: ChenXinV@outlook.com.📫
 <br/>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
