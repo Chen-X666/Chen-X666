@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Chen, a postgraduate student study in University of Southampton(UoS).👋 
 - 📊 Currently, I’m focusing on Business Analytics, Natural language processing, Data Science and Knowledge Graph.📊 
 - ⭐ About my interests. I cannot live without music and designing, lol. ⭐
-- 🌈 [Junchao Wu](https://github.com/junchaoIU) is my best friend directing my way of reasearch, he is studying on University of Macau(UM) and focusing on Natural language processing, Information Science, Knowledge Graphs and Data Mining🌈
+- 🌈 [Junchao Wu](https://github.com/junchaoIU) is my best friend directing my way of reasearch, he is focusing on Natural language processing, Information Science, Knowledge Graphs and Data Mining at University of Macau(UM)🌈
 - 📫 If you have any questions or coperations, please feel free to contact with me by my Email: ChenXinV@outlook.com.📫
 <br/>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
