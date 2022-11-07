@@ -4,7 +4,7 @@
 - 🌈 [Junchao Wu](https://github.com/junchaoIU) is my best friend directing my way of research, he is focusing on Natural language processing, Information Science, Knowledge Graphs and Data Mining at University of Macau(UM)🌈
 - 📫 If you have any questions or coperations, please feel free to contact with me by my Email: ChenXinV@outlook.com.📫
 <br/>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
+<img align="right" alt="GIF" src="https://github.com/Chen-X666/Chen-X666/blob/master/%E6%9C%AA%E5%91%BD%E5%90%8D.jpg" />
 
 ### Tools
 
