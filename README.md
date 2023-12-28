@@ -1,5 +1,6 @@
-![]([https://github.com/Chen-X666/Chen-X666/blob/master/banner.png])
+
 <img align="right" alt="GIF" src="https://github.com/Chen-X666/Chen-X666/blob/master/banner.png" width = "2000" high = "500 "/>
+
 
 - 👋 Hi, I’m @Chen, a postgraduate student study in University of Southampton(UoS).👋 
 - 📊 Currently, I’m focusing on Business Analytics, Natural language processing, Data Science and Knowledge Graph.📊 
