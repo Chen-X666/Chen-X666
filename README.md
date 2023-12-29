@@ -1,5 +1,5 @@
 
-<img align="right" alt="GIF" src="https://github.com/Chen-X666/Chen-X666/blob/master/banner.png" width = "800" high = "400 "/>
+<img align="right" alt="GIF" src="https://github.com/Chen-X666/Chen-X666/blob/master/banner.png" width = "900" high = "400 "/>
 
 
 - 👋 Hi, I’m @Chen, a postgraduate student study in University of Southampton(UoS).👋 
