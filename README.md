@@ -2,6 +2,7 @@
 <img align="right" alt="GIF" src="https://github.com/Chen-X666/Chen-X666/blob/master/banner.png" width = "1000" high = "400 "/>
 
 
+
 - 👋 Hi, I’m @Chen, a postgraduate student study in University of Southampton(UoS).👋 
 - 📊 Currently, I’m focusing on Business Analytics, Natural language processing, Data Science and Knowledge Graph.📊 
 - ⭐ About my interests. I cannot live without music and designing, lol. ⭐
