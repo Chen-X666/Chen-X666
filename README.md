@@ -20,7 +20,7 @@
 
 ## Tools
 
-![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
+![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=) 
 ![JAVA](https://img.shields.io/static/v1?style=for-the-badge&message=jave&color=FF6A00&logo=openjdk&logoColor=FFFFFF&label=)
 ![PyTorch](https://img.shields.io/static/v1?style=for-the-badge&message=PyTorch&color=EE4C2C&logo=PyTorch&logoColor=FFFFFF&label=)
 ![TensorFlow](https://img.shields.io/static/v1?style=for-the-badge&message=TensorFlow&color=FF6F00&logo=TensorFlow&logoColor=FFFFFF&label=)
@@ -32,8 +32,6 @@
 ![MySQL](https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=)
 ![Neo4j](https://img.shields.io/static/v1?style=for-the-badge&message=Neo4j&color=4581C3&logo=Neo4j&logoColor=FFFFFF&label=)
 ![Apache ECharts](https://img.shields.io/static/v1?style=for-the-badge&message=Apache+ECharts&color=AA344D&logo=Apache+ECharts&logoColor=FFFFFF&label=)
-![pandas](https://img.shields.io/static/v1?style=for-the-badge&message=pandas&color=150458&logo=pandas&logoColor=FFFFFF&label=)
-![NumPy](https://img.shields.io/static/v1?style=for-the-badge&message=NumPy&color=013243&logo=NumPy&logoColor=FFFFFF&label=)
 ![Adobe Photoshop](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+Photoshop&color=31A8FF&logo=Adobe+Photoshop&logoColor=FFFFFF&label=)
 
 
