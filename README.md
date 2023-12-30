@@ -8,7 +8,7 @@
 - 🧑‍🏫 [Prof. Jing YANG](https://rsgyy.bnu.edu.cn/yjjg/yykxyjzx/rcdw2/97903.html), my undergraduate tutor at the Center for Linguistic Sciences at Beijing Normal University, is an expert in analyzing Chinese social media, with a particular focus on Danmaku comments from the Bilibili platform. 🧑‍🏫
 - 🌈 [Junchao WU](https://github.com/junchaoIU), a creative researcher and my best friend, is currently making strides in the field of Natural Language Processing at the [NLP2CT LAB](http://nlp2ct.cis.um.edu.mo/), University of Macau. He is now focusing on Unsupervised Machine Translation and LLM-generated Text Detection. 🌈
 - 📫 If you have any questions or cooperation, please feel free to contact me by Email: ChenXinV@outlook.com.📫
-<br/>
+
 
 ## RESEARCH INTEREST
 
@@ -20,12 +20,22 @@
 
 ## Tools
 
-![Java](https://img.shields.io/badge/-Java-192133?style=flat-square&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-192133?style=flat-square&logo=python&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/-SpringBoot-192133?style=flat-square&logo=spring&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-192133?style=flat-square&logo=mysql&logoColor=white)
-![Kreas](https://img.shields.io/badge/-Kreas-192133?style=flat-square&logo=figma&logoColor=white)
-![Tensortflow](https://img.shields.io/badge/-Tensortflow-192133?style=flat-square&logo=figma&logoColor=white)
+![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
+![JAVA](https://img.shields.io/static/v1?style=for-the-badge&message=jave&color=FF6A00&logo=openjdk&logoColor=FFFFFF&label=)
+![PyTorch](https://img.shields.io/static/v1?style=for-the-badge&message=PyTorch&color=EE4C2C&logo=PyTorch&logoColor=FFFFFF&label=)
+![TensorFlow](https://img.shields.io/static/v1?style=for-the-badge&message=TensorFlow&color=FF6F00&logo=TensorFlow&logoColor=FFFFFF&label=)
+![Keras](https://img.shields.io/static/v1?style=for-the-badge&message=Keras&color=D00000&logo=Keras&logoColor=FFFFFF&label=)
+![scikit-learn](https://img.shields.io/static/v1?style=for-the-badge&message=scikit-learn&color=222222&logo=scikit-learn&logoColor=F7931E&label=)
+![Spring Boot](https://img.shields.io/static/v1?style=for-the-badge&message=Spring+Boot&color=6DB33F&logo=Spring+Boot&logoColor=FFFFFF&label=)
+![Flask](https://img.shields.io/static/v1?style=for-the-badge&message=Flask&color=000000&logo=Flask&logoColor=FFFFFF&label=)
+![Redis](https://img.shields.io/static/v1?style=for-the-badge&message=Redis&color=DC382D&logo=Redis&logoColor=FFFFFF&label=)
+![MySQL](https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=)
+![Neo4j](https://img.shields.io/static/v1?style=for-the-badge&message=Neo4j&color=4581C3&logo=Neo4j&logoColor=FFFFFF&label=)
+![Apache ECharts](https://img.shields.io/static/v1?style=for-the-badge&message=Apache+ECharts&color=AA344D&logo=Apache+ECharts&logoColor=FFFFFF&label=)
+![pandas](https://img.shields.io/static/v1?style=for-the-badge&message=pandas&color=150458&logo=pandas&logoColor=FFFFFF&label=)
+![NumPy](https://img.shields.io/static/v1?style=for-the-badge&message=NumPy&color=013243&logo=NumPy&logoColor=FFFFFF&label=)
+![Adobe Photoshop](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+Photoshop&color=31A8FF&logo=Adobe+Photoshop&logoColor=FFFFFF&label=)
+
 
 
 
