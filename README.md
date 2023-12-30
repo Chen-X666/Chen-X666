@@ -11,8 +11,15 @@
 - 📫 If you have any questions or cooperation, please feel free to contact me by Email: ChenXinV@outlook.com.📫
 <br/>
 
+## RESEARCH INTEREST
 
-### Tools
+- [ ] Natural Language Processing
+- [x] Large Language Models (Recent Research)
+- [ ] Social Media Analytics
+- [x] Fintech (Recent Research)
+- [ ] Data Science
+
+## Tools
 
 ![Java](https://img.shields.io/badge/-Java-192133?style=flat-square&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-192133?style=flat-square&logo=python&logoColor=white)
