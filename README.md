@@ -18,7 +18,7 @@
 - [x] Fintech (Recent Research)
 - [ ] Data Science
 
-## Tools
+## TOOL
 
 ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=) 
 ![JAVA](https://img.shields.io/static/v1?style=for-the-badge&message=jave&color=FF6A00&logo=openjdk&logoColor=FFFFFF&label=)
