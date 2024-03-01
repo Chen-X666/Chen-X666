@@ -12,10 +12,10 @@
 
 ## RESEARCH INTEREST
 
-- [ ] Natural Language Processing
 - [x] Large Language Models (Recent Research)
 - [ ] Social Media Analytics
 - [x] Fintech (Recent Research)
+- [x] Privacy-Preserving Prompt (Recent Research)
 - [ ] Data Science
 
 ## TOOL
