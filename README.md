@@ -12,11 +12,11 @@
 
 ## RESEARCH INTEREST
 
-- [x] Large Language Models (Recent Research)
-- [ ] Social Media Analytics
-- [x] Fintech (Recent Research)
-- [x] Privacy-Preserving Prompt (Recent Research)
-- [ ] Data Science
+- [x] AIGC Detection (Recent Research) with [Junchao WU](https://github.com/junchaoIU) 
+- [ ] Privacy-preserving AI
+- [ ] Trustworthy AI
+- [x] LLMs to Real-world Scenarios(e.g., healthcare, finance)
+- [x] Synthetic Data Generation
 
 ## TOOL
 
