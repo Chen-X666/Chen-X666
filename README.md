@@ -14,9 +14,9 @@
 
 - [x] AIGC Detection (Recent Research) with [Junchao WU](https://github.com/junchaoIU) 
 - [ ] Privacy-preserving AI
-- [ ] Trustworthy AI
-- [x] LLMs to Real-world Scenarios(e.g., healthcare, finance)
-- [x] Synthetic Data Generation
+- [x] Trustworthy AI
+- [ ] LLMs to Real-world Scenarios(e.g., healthcare, finance)
+- [x] AI alignment
 
 ## TOOL
 
