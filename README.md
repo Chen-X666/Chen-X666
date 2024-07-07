@@ -16,7 +16,7 @@
 - [ ] Privacy-preserving AI
 - [x] Trustworthy AI
 - [ ] LLMs to Real-world Scenarios(e.g., healthcare, finance)
-- [x] AI alignment
+- [x] AI Alignment
 
 ## TOOL
 
