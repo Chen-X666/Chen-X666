@@ -7,7 +7,7 @@
 - ⭐ About my interests, I cannot live without music. I'm a super fan of Jay; if you are too, we're good friends, lol. ⭐
 - 🧑‍🏫 [Prof. Jing YANG](https://rsgyy.bnu.edu.cn/yjjg/yykxyjzx/rcdw2/97903.html), my undergraduate tutor at the Center for Linguistic Sciences at Beijing Normal University, is an expert in analyzing Chinese social media, with a particular focus on Danmaku comments from the Bilibili platform. 🧑‍🏫
 - 🌈 [Junchao WU](https://github.com/junchaoIU), a creative researcher and my best friend, is currently making strides in the field of Natural Language Processing at the [NLP2CT LAB](http://nlp2ct.cis.um.edu.mo/), University of Macau. He is now focusing on Unsupervised Machine Translation and LLM-generated Text Detection. 🌈
-- 📫 If you have any questions or cooperation, please feel free to contact me by Email: ChenXinV@outlook.com.📫
+- 📫 If you have any questions or cooperation, please feel free to contact me by Email: x.chen@smail.nju.edu.cn.📫
 
 
 ## RESEARCH INTEREST
