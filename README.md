@@ -12,11 +12,12 @@
 
 ## RESEARCH INTEREST
 
-- [x] AIGC Detection with [Junchao WU](https://github.com/junchaoIU) 
-- [ ] Privacy-preserving AI
-- [x] Trustworthy AI
-- [ ] LLMs to Real-world Scenarios(e.g., healthcare, finance)
-- [x] AI Alignment
+-  Trustworthy AI
+  - [x] AIGC Detection with [Junchao WU](https://junchaoiu.github.io/)
+  - [ ] Privacy-preserving AI
+-  Dialogue System
+  - [x] Proactive Interactive System with [Feng JIANG](https://fjiangai.github.io/)
+  - [ ] LLMs to Real-world Scenarios(e.g., healthcare, finance)
 
 ## TOOL
 
